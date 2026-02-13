@@ -3,5 +3,5 @@
 Use the all important Html tags created using only HTML
 
 ## Author
-    Jitendra rajpurohit
+     Jitendra rajpurohit
      Bca Student
